@@ -157,7 +157,7 @@ ul#completed-tasks label {
     color: #888;
 }
 
-/* Edit Task */
+/* Edit Task */ 
 li input[type="text"] {
     display: none;
 }
